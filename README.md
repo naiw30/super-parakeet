@@ -11,7 +11,7 @@
 ## 수업 자료( ☀️ 2024년 3월 23일 updated)
 
 
-- **1. 튜닝예제 1번**:  📄[노트](https://github.com/oracleyu01/rac_class/blob/main/rac%EA%B0%9C%EB%85%90.md)
+- **1. 튜닝예제 1번 select 문의 실행과정 3단계를 알아야 한다**:  📄[노트](https://github.com/oracleyu01/rac_class/blob/main/rac%EA%B0%9C%EB%85%90.md)
   &nbsp;
 
 https://www.notion.so/5-9-62951d78c19447b5b4ba675f2ec6e823
